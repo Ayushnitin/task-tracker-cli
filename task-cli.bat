@@ -1,2 +1,2 @@
 @echo off
-java -cp "%~dp0" TaskCli %*
+java -cp "%~dp0out" TaskCli %*
